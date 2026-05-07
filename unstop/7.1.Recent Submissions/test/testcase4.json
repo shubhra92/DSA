@@ -1,0 +1,6 @@
+{
+  "name": "All Within 5000 Seconds",
+  "input": "5\n1 2 3 4 5",
+  "expectedOutput": "5",
+  "description": "All submissions are within 5000 seconds, so all remain in queue"
+}

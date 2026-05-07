@@ -1,0 +1,6 @@
+{
+  "name": "Large Time Gaps",
+  "input": "5\n1000 10000 20000 30000 40000",
+  "expectedOutput": "1",
+  "description": "Each submission is more than 5000 seconds apart, queue size always 1"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Edge Case - Exactly 5000 Apart",
+  "input": "3\n1000 6000 11000",
+  "expectedOutput": "1",
+  "description": "Submissions exactly 5000 seconds apart should remove previous ones"
+}

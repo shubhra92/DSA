@@ -1,0 +1,6 @@
+{
+  "name": "Single Submission",
+  "input": "1\n1000",
+  "expectedOutput": "1",
+  "description": "Only one submission in the queue"
+}

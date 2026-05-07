@@ -1,0 +1,6 @@
+{
+  "name": "Sample Test Case 0",
+  "input": "3\n300 6000 100000",
+  "expectedOutput": "1",
+  "description": "Each submission removes the previous one as they are exactly 5000 seconds apart"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Gradual Queue Growth",
+  "input": "10\n1 1000 2000 3000 4000 4500 4800 4900 4950 4999",
+  "expectedOutput": "10",
+  "description": "All submissions within 5000 seconds window, queue grows to maximum size"
+}
