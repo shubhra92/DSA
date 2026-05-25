@@ -1,6 +1,6 @@
 > ## Problem Statement
 
-ala is the director of an engineering college.
+Kala is the director of an engineering college.
 
 He makes the decision for college based on the previous decision. Unfortunately, the latest decision of Kala for college is wrong. Since each decision for college is based on the previous decision, all the decisions after a wrong decision are also wrong.
 
